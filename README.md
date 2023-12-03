@@ -17,7 +17,7 @@ Version 1 of a Python-based banking application for basic financial transactions
 3. Follow the on-screen prompts to perform various banking transactions.
 
 ## Code Organization
-The code is structured using classes for modularity and readability:
+The code is structured using classes for modularity and readability:  
   `BankUtility`: Helper methods for user input and common tasks.  
   `CoinCollector`: Class for simulating coin deposits.  
   `Account`: Represents an individual bank account.  
